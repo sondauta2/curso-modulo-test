@@ -10,7 +10,7 @@ const retornaArreglo = () =>{
 }
 
 const [ letras, numeros ] = retornaArreglo(); 
-console.log(letras, numeros);
+console.log(letras, numeros); 
 
 
 // Tarea

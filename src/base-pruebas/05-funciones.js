@@ -10,7 +10,7 @@ const saludar2 = ( nombre ) => {
 
 const saludar3 = ( nombre ) => `Hola, ${ nombre }`;
 const saludar4 = () => `Hola Mundo`;
-
+ 
 // console.log( saludar('Goku') )
 
 console.log( saludar2('Vegeta') );
