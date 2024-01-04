@@ -17,4 +17,4 @@ export const getHeroesByOwner = ( owner ) => heroes.filter( (heroe) => heroe.own
 
 // console.log( getHeroesByOwner('Marvel') );
 
-
+ 

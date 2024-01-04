@@ -15,7 +15,7 @@ import { getHeroeById } from './bases/08-imp-exp'
 // promesa.then( (heroe) => {
 //     console.log('heroe', heroe)
 // })
-// .catch( err => console.warn( err ) );
+// .catch( err => console.warn( err ) ); 
 
 const getHeroeByIdAsync = ( id ) => {
 

@@ -23,7 +23,7 @@ export const CounterApp = ({valor}) => {
         <button onClick={ handleRst }> Reset </button>
     </>
   )
-};
+}; 
 
 
 CounterApp.propTypes = {

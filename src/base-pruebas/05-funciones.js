@@ -16,7 +16,7 @@ const saludar4 = () => `Hola Mundo`;
 console.log( saludar2('Vegeta') );
 console.log( saludar3('Goku') );
 console.log( saludar4() );
-
+ 
 
 const getUser = () => ({
         uid: 'ABC123',

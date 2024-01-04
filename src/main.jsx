@@ -16,4 +16,4 @@ ReactDOM.createRoot(document.getElementById('root'))
  */}            
             <CounterApp valor = {10} />
         </React.StrictMode>
-    );
+    ); 

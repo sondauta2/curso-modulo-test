@@ -17,7 +17,7 @@ export const FirstModule = ({title,  subTitle, name}) => {
     <>
         <h1>{ name }</h1>
         <h2>{ title }</h2>
-        <p>{ subTitle }</p>
+        <p>{ subTitle }</p> 
     </>
   )
 };
